@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+# build output (pdf/epub exports)
+/dist/
